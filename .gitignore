@@ -1,0 +1,6 @@
+# Gmail authentication files
+config/credentials.json
+config/token.pkl
+
+# Environment variables
+.env
